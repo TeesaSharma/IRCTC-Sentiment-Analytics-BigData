@@ -92,7 +92,7 @@ Results and Findings
 Documentation Included
 
 1. project_report - Final written project report
-2. ppt.pptx - Project presentation slides
+2. IRCTC_BigDataAnalytics_Presentation.pptx - Project presentation
 
 ---
 
@@ -103,10 +103,4 @@ Future Enhancements
 3. Integrate Power BI or Tableau for advanced visualization.
 4. Incorporate Deep Learning NLP models such as BERT for improved accuracy.
 
----
 
-Acknowledgment
-I sincerely thank the School of Management Studies, University of Hyderabad, for guidance and academic support throughout the project.
-Special thanks to mentors and classmates for their assistance and constructive feedback in completing this work successfully.
-
----
